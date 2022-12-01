@@ -6,3 +6,8 @@
 
 
 https://github.com/RizwanMunawar/yolov7-pose-estimation
+
+
+
+## Reference
+1.I get ideas from here[https://github.com/RizwanMunawar/yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation)
