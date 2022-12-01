@@ -10,6 +10,7 @@
 
 
 ## Reference
-1.I get ideas from here   [https://github.com/RizwanMunawar/yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation)
+I get ideas from here   
+1.[https://github.com/RizwanMunawar/yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation)
 
 2.https://github.com/WongKinYiu/yolov7
